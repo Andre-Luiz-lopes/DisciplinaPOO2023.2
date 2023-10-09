@@ -23,6 +23,8 @@
   ## Professor
   - Roger Moura Sarmento
 
-  ## Dupla
-  - André Luiz
-  - Carlos Dante
+  ## Grupo
+  - André Luiz : https://github.com/Andre-Luiz-lopes/DisciplinaPOO2023.2
+  - Carlos Dante : https://github.com/DantedSousa/DisciplinaPOO2023.2
+ 
+    
