@@ -1,5 +1,5 @@
 # DisciplinaPOO2023.2
-* <h3>Atividades De Java POO<h3>
+* <h3>Atividades De POO java<h3>
 <br>
 <br>
 
